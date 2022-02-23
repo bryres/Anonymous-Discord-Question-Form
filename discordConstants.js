@@ -1,3 +1,4 @@
+//test
 require('dotenv').config();
 
 const channelName = process.env.DISCORD_CHANNEL_NAME
